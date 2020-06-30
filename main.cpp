@@ -4,6 +4,7 @@ using namespace std;
 
 int main() 
 {
+    //测试程序
     Redis redis;
     Service s1, s2;
     redis.connect();
